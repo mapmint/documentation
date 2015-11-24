@@ -1,0 +1,2 @@
+# documentation
+MapMint Documentation
